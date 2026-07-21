@@ -1,2 +1,2 @@
 # Spotify_Clone
-It is my mini project.
+It is my 2nd mini project.
